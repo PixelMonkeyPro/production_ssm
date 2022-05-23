@@ -6,7 +6,6 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="copyright" content="Copyright 2016" />
-<meta name="Author" content="华侨大学计算机科学与技术学院" />
 <meta name="keywords" content="生产管理系统--生产进度,设备管理,工艺监控,物料监控,人员监控,质量监控" />
 <meta name="description" content="制造装备物联及生产管理中间件/系统登陆页面" />
 <title>制造物联中间件系统登录页面</title>
@@ -23,9 +22,9 @@
 
 <body>
 	<div class="main">
-		<div class="header hide"> 管理系统  </div>
+		<div class="header hide"> 制造物联中间件管理系统  </div>
 		<div class="content">
-			<div class="title hide">管理系统登录</div>
+			<div class="title hide">制造物联中间件管理系统登录</div>
 			<form name="login" action="#" method="post">
 				<fieldset>
 				
